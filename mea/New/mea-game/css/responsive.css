@@ -1,0 +1,67 @@
+
+/* ipad 6 ----------- */
+@media only screen and (max-width: 1024px) {
+	
+}
+/* iPhone 6 and (orientation : landscape) ----------- */
+@media only screen and (max-width: 768px)  {
+	
+}
+@media only screen and (max-width: 736px) { 
+	
+}
+/* iPhone 6 ----------- */
+@media only screen and (max-width: 414px) {
+	body {
+		font-size:18px;
+		line-height: 25px;
+	}
+	.main-btn .btn {
+		width:49%;
+		padding: 5px 0 10px 0;
+		margin:0;
+	}
+	.breadcrumb-wrap {
+		margin:10px 0;
+	}
+	.breadcrumb-wrap .breadcrumb {
+		width:80%;
+	}
+	.breadcrumb-wrap .breadcrumb a {
+		font-size:20px;
+	}
+	.game-wrap {
+		margin:0 auto;
+		padding:15px;
+	}
+	.content .wrapper {
+		padding-bottom:30px;
+	}
+	.playgame {
+		width:100%;
+	}
+	.note {
+		text-align: right;
+	}
+	.playgame .title-playgame {
+		margin-bottom: 5px;
+    	display: inline-block;
+	}
+	.playgame .title-sup {
+		margin:5px 0;
+	}
+}
+@media only screen and (max-width: 375px) {
+	
+}
+@media only screen and (max-width: 360px) {
+	.t-c {
+		height: 350px;
+	}
+}
+@media only screen and (max-width: 320px) {
+	input[type="checkbox"] + label {
+		font-size:18px;
+	}
+	
+}
